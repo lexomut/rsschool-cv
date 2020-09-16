@@ -15,7 +15,7 @@ septemser 2020  RS School Javascript/Front-end
 HTML, CSS, Javascript, Word, Excel, 1C, Email, Photoshop, System administration, network configuration,
 
 ## Education
-Vyatka State University of Humanities 
+Vyatka State University of Humanities  
 2004-2009 Lawyer
 
 ## Languages 
