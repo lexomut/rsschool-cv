@@ -11,8 +11,9 @@
 
 ## Cources
 septemser 2020  RS School Javascript/Front-end 
+
 ## Computer Skills
-HTML, CSS, Javascript, Word, Excel, 1C, Email, Photoshop, System administration, network configuration,
+HTML, CSS, Javascript, Word, Excel, 1C, Email, Photoshop, System administration, network configuration
 
 ## Education
 Vyatka State University of Humanities  
