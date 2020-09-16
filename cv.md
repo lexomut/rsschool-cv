@@ -1,6 +1,6 @@
 #           **Curriculum vitae**
 
-**Pirozerskii Alexey S.**
+**Pirozerskii Alexey S. **
 
 * **Birthday:** 30.06.1983
 * **Residence:** Russia, Kirovskaya oblast, Omutninsk, Y.Pinerov 68
