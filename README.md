@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lexomut.github.io/rsschool-cv/cv
