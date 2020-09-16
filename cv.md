@@ -1,0 +1,24 @@
+#           **Curriculum vitae**
+
+**Pirozerskii Alexey S. **
+
+* **Birthday:** 30.06.1983
+* **Residence:** Russia, Kirovskaya oblast, Omutninsk, Y.Pinerov 68
+* **Phone:** +79991001634
+* **E-mail:** lexomut@mail.ru
+
+**Objective:**  To obtain a position as Junior Front-End Developer
+
+## Cources
+septemser 2020  RS School Javascript/Front-end 
+
+## Computer Skills
+HTML, CSS, Javascript, Word, Excel, 1C, Email, Photoshop, System administration, network configuration
+
+## Education
+Vyatka State University of Humanities  
+2004-2009 Lawyer
+
+## Languages 
+ Russian Native
+ English A1 Beginner
