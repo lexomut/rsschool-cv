@@ -1,0 +1,45 @@
+
+header {
+
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height:30vh;
+    text-align: center;
+
+    background-color: burlywood;
+}
+article{ background-color: #bda58c;
+
+
+    top: 20vh;
+    left: 0;
+    width: 1000px;
+    height: 200vh;
+    padding-top: 1%;
+    border: 1px;
+
+
+}
+
+table {
+    width: 90%;
+    margin: 5%;
+    height: 1500px;
+
+}
+TD {
+    vertical-align: top; /* Вертикальное выравнивание в ячейках */
+    padding: 2%; /* Поля вокруг ячеек */
+}
+TD#leftcol {
+    width: 30%; /* Ширина левой колонки */
+    background: #ccc; /* Цвет фона левой колонки */
+
+}
+TD#rightcol {
+    background: #fc3; /* Цвет фона правой колонки */
+
+}
+#spacer {
+    width: 10px; /* Расстояние между колонками */
