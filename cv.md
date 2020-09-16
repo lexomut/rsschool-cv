@@ -9,15 +9,15 @@
 
 **Objective:**  To obtain a position as Junior Front-End Developer
 
-##Cources
+## Cources
 septemser 2020  RS School Javascript/Front-end 
-##Computer Skills
+## Computer Skills
 HTML, CSS, Javascript, Word, Excel, 1C, Email, Photoshop, System administration, network configuration,
 
 ## Education
 Vyatka State University of Humanities 
 2004-2009 Lawyer
 
-##Languages 
+## Languages 
  Russian Native
  English A1 Beginner
