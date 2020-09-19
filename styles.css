@@ -1,21 +1,25 @@
 body{
-    width: 1600px;
+    width: 1024px;
     height: 1588px;
     background-color: skyblue;
 }
-header {text-align: left;top: 18px;left: 0;width: 80%;height:10%;margin-left: auto;margin-right: auto;background-color: #e2e450;}
-div {
+header {top: 18px;width: 95%;height:10%;margin-left: auto;margin-right: auto;background-color: #e2e450;}
+#face {
     float: left;
     /* align-items: center; */
+    width: 10%;
     }
-img {border-radius: 50%}
+#header{text-align: center;
+}
+img {border-radius: 50%;
+width:200px}
 article{
     background-color: #7e8edc;
     margin-left: auto;
     margin-right: auto;
     top: 20vh;
     left: 0;
-    width: 80%;
+    width: 95%;
     height: 86%;
     padding-top: 1%;
     border: 1px;
