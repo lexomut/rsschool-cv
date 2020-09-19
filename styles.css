@@ -1,45 +1,49 @@
-
-header {
-
-    top: 0;
-    left: 0;
-    width: 1000px;
-    height:30vh;
-    text-align: center;
-
-    background-color: burlywood;
+body{
+    width: 1600px;
+    height: 1588px;
+    background-color: skyblue;
 }
-article{ background-color: #bda58c;
-
-
+header {text-align: left;top: 18px;left: 0;width: 80%;height:10%;margin-left: auto;margin-right: auto;background-color: #e2e450;}
+div {
+    float: left;
+    /* align-items: center; */
+    }
+img {border-radius: 50%}
+article{
+    background-color: #7e8edc;
+    margin-left: auto;
+    margin-right: auto;
     top: 20vh;
     left: 0;
-    width: 1000px;
-    height: 200vh;
+    width: 80%;
+    height: 86%;
     padding-top: 1%;
     border: 1px;
-
-
+    font-size: 18px;
 }
 
 table {
     width: 90%;
     margin: 5%;
-    height: 1500px;
+    height: 90%;
 
 }
+section{
+    background: #cdffe8;
+    margin: 3%;
+    padding-bottom: 20%;
+    }
+
 TD {
-    vertical-align: top; /* Вертикальное выравнивание в ячейках */
-    padding: 2%; /* Поля вокруг ячеек */
+    vertical-align: top;
+    padding: 0;
 }
 TD#leftcol {
-    width: 30%; /* Ширина левой колонки */
-    background: #ccc; /* Цвет фона левой колонки */
+    width: 33%;
 
 }
 TD#rightcol {
-    background: #fc3; /* Цвет фона правой колонки */
 
 }
 #spacer {
-    width: 10px; /* Расстояние между колонками */
+    width: 12px;
