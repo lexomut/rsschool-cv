@@ -23,3 +23,10 @@ max-width: 255rem;
 @import "header";
 
 
+main{
+  display: flex;
+  justify-content: space-between;
+
+}
+@import "left-column";
+
