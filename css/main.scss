@@ -15,10 +15,14 @@ body {
   line-height: normal;
   font-weight: normal;
 }
+a{
+  text-decoration: none;
+}
 .wrapper {
 max-width: 255rem;
   overflow: hidden;
   margin: 0 auto;
+
 }
 @import "header";
 

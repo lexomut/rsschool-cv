@@ -1,3 +1,8 @@
+header{
+    position: absolute;
+    top: 72.9rem;
+    z-index: 0;
+}
 .address {
     left: -12.329rem;
     display: flex;
@@ -24,7 +29,7 @@
     font-size: 8rem;
     line-height: 9.4rem;
 }
-.logo h1 {
+h1 {
     position: absolute;
     left: -200rem;
 
