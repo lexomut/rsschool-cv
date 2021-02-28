@@ -486,7 +486,7 @@ textarea {
 }
 html {
   box-sizing: border-box;
-  font-size: 10px;
+  font-size: 5px;
 }
 
 *, *::before, *::after {
@@ -521,6 +521,9 @@ header {
   left: -12.329rem;
   display: flex;
   position: relative;
+}
+.address a {
+  font-size: 3.5rem;
 }
 
 .header__left {
@@ -893,10 +896,16 @@ main {
   display: flex;
   margin: auto;
 }
+.sections-title-icon-background img {
+  width: 3.3rem;
+}
 
 .sections-title-icon-inside {
   display: flex;
   margin: auto;
+}
+.sections-title-icon-inside img {
+  width: 3.3rem;
 }
 
 .work-icon-background {
