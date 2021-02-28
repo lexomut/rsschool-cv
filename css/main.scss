@@ -1,12 +1,15 @@
 @import "reset";
 @import "fonts";
+
 html {
   box-sizing: border-box;
   font-size: 10px;
 }
-*,*::before,*::after{
+
+*, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
 
   font-family: Roboto, sans-serif;
@@ -15,22 +18,48 @@ body {
   line-height: normal;
   font-weight: normal;
 }
-a{
+
+a {
   text-decoration: none;
 }
+
 .wrapper {
-max-width: 255rem;
+  max-width: 255rem;
+  min-width: 230rem;
   overflow: hidden;
   margin: 0 auto;
 
 }
+
 @import "header";
 
 
-main{
+main {
   display: flex;
   justify-content: space-between;
 
 }
+
 @import "left-column";
+@import "right-column";
+
+footer {
+  display: flex;
+  position: relative;
+  width: 285.708rem;
+  height: 5.809rem;
+  left: -15rem;
+  background: linear-gradient(96.49deg, #F1401C 5.08%, #51CDED 100.01%);
+  transform: matrix(0.93, 0, 0.45, 1, 0, 0);
+  p{
+  color: #FFFFFF;
+  margin: auto;
+  font-size: 3rem;
+    transform: matrix(0.93, 0, -0.45, 1, 0, 0);
+    letter-spacing: 1rem;
+  }
+}
+.display-none{
+  display:none;
+}
 

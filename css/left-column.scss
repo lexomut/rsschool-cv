@@ -3,8 +3,8 @@
   max-width: 96rem;
   width: 96rem;
 
-  p{
-    font-family: Poppins ;
+  p {
+    font-family: Poppins;
     font-weight: 500;
     font-size: 3rem;
     line-height: 4.5rem;
@@ -20,31 +20,31 @@
 }
 
 
-
-
 .photo {
   width: 100%;
   height: 95.7rem;
-  //background: url("../images/face.jpg") no-repeat center;
-  img{
+
+  img {
     width: 100%;
 
 
   }
 
 }
-.title-text{
-  font-family: Poppins, sans-serif ;
+
+.title-text {
+  font-family: Poppins, sans-serif;
   font-weight: bold;
   font-size: 4.7rem;
   line-height: 7rem;
   letter-spacing: 0.1em;
 
-  background:  linear-gradient(90deg, #56A2B9 1.89%, #5CC3CF 100%);
+  background: linear-gradient(90deg, #56A2B9 1.89%, #5CC3CF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
 }
+
 .pro-skills {
   padding-top: 11.5rem;
 
@@ -53,31 +53,36 @@
 
   }
 }
-.pro-skills__list{
-width: 100%;
+
+.pro-skills__list {
+  width: 100%;
 }
-.pro-skills__frame{
+
+.pro-skills__frame {
   width: 100%;
   display: flex;
   position: relative;
-  li{
+
+  li {
     width: 100%;
     height: 9.2rem;
-    padding-bottom: 17.2rem ;
-    p{
-      margin-left: 2.85rem  ;
+    padding-bottom: 17.2rem;
+
+    p {
+      margin-left: 2.85rem;
       margin-bottom: 2rem;
 
 
     }
 
   }
-  li:last-child{
-    padding-bottom:0
+
+  li:last-child {
+    padding-bottom: 0
   }
 }
 
-.pro-skills__item{
+.pro-skills__item {
   display: flex;
   position: relative;
   //padding-top: 24rem;
@@ -85,6 +90,7 @@ width: 100%;
 
 
 }
+
 .pro-skills__circle {
   left: 0;
   top: 0;
@@ -94,26 +100,28 @@ width: 100%;
   border-radius: 50%;
   background: #56A2B9;
 }
-.pro-skills__empty-line{
+
+.pro-skills__empty-line {
   position: absolute;
   left: 0;
-  top:0.6rem;
+  top: 0.6rem;
   width: 100%;
   height: 2rem;
   background: #D6D6D6;
   border-radius: 2.5rem
 }
-.pro-skills__full-line{
+
+.pro-skills__full-line {
   position: absolute;
   left: 0;
-  top:0.6rem;
-  width: 50%;
+  top: 0.6rem;
+  //width: 50%;
   height: 2rem;
   background: linear-gradient(90deg, #56A2B9 1.89%, #5CC3CF 100%);
   border-radius: 2.5rem
 }
 
-.pro-skills__vertical-line{
+.pro-skills__vertical-line {
   position: relative;
   left: 2rem;
   height: auto;
@@ -122,28 +130,32 @@ width: 100%;
 
 }
 
-.personal-skills{
+.personal-skills {
   padding-top: 11.1rem;
-  h3{
+
+  h3 {
     margin-bottom: 5rem;
   }
 }
-.personal-skills__skills-list{
+
+.personal-skills__skills-list {
   display: grid;
   grid-template-columns: 33rem 33rem;
   width: 100%;
 }
-.personal-skills__skills-item{
+
+.personal-skills__skills-item {
   margin-bottom: 5.7rem;
 
 }
-.personal-skills__star-line{
+
+.personal-skills__star-line {
   display: flex;
   padding-top: 2rem;
 
 }
 
-.personal-skills__star{
+.personal-skills__star {
   height: 2.9rem;
   width: 4rem;
 
@@ -155,24 +167,28 @@ width: 100%;
   background-color: #56A2B9;
 
 }
-.personal-skills__star-inactive{
+
+.personal-skills__star-inactive {
   background-color: #C4C4C4;
 
 }
 
-.fallow-me{
+.fallow-me {
   padding-top: 5rem;
   margin-bottom: 20rem;
+
   h3 {
     margin-bottom: 5rem;
   }
 
 }
-.fallow-me__item a{
+
+.fallow-me__item a {
   display: flex;
   margin-bottom: 6rem;
 }
-.fallow-me__icon{
+
+.fallow-me__icon {
 
   width: 4.8rem;
   height: 4.8rem;
@@ -181,7 +197,8 @@ width: 100%;
   margin-right: 8rem;
 
 }
-.rs_school__icon{
+
+.rs_school__icon {
   width: 100%;
   height: 100%;
 
@@ -192,7 +209,8 @@ width: 100%;
   -webkit-mask-image: url("../images/rs-logo.svg");
   background-color: #FFFFFF;
 }
-.git__icon{
+
+.git__icon {
   width: 100%;
   height: 100%;
 
