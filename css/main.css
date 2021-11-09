@@ -199,7 +199,7 @@ main {
   width: 96rem;
 }
 .left-column p {
-  font-family: Poppins;
+  font-family: Poppins, serif;
   font-weight: 500;
   font-size: 3rem;
   line-height: 4.5rem;
@@ -391,7 +391,7 @@ main {
 }
 
 .right-column p {
-  font-family: Roboto;
+  font-family: Roboto, serif;
   font-style: normal;
   font-weight: normal;
   line-height: 170%;
@@ -441,7 +441,7 @@ main {
 }
 .right-column__sections-title h3 {
   margin-left: 2.9rem;
-  font-family: Poppins;
+  font-family: Poppins, serif;
   font-style: normal;
   font-weight: bold;
   font-size: 4.7rem;
@@ -525,7 +525,7 @@ main {
 .paragraph-item_title h4 {
   margin-left: 2.1rem;
   margin-bottom: 2rem;
-  font-family: Poppins;
+  font-family: Poppins, serif;
   font-style: normal;
   font-weight: bold;
   font-size: 3.3rem;
@@ -536,7 +536,7 @@ main {
 }
 
 .paragraph-item__year {
-  font-family: Poppins;
+  font-family: Poppins, serif;
   font-style: normal;
   font-weight: 600;
   font-size: 3rem;
@@ -563,7 +563,7 @@ main {
 
 p.paragraph-item_subtitle {
   padding-top: 3.3rem;
-  font-family: Roboto;
+  font-family: Roboto, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 2.8rem;
@@ -574,7 +574,7 @@ p.paragraph-item_subtitle {
 }
 
 .paragraph-item_text {
-  font-family: Roboto;
+  font-family: Roboto, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 2.8rem;
@@ -621,7 +621,7 @@ p.paragraph-item_subtitle {
 
 .link {
   padding-top: 1rem;
-  font-family: Roboto;
+  font-family: Roboto, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 3rem;
@@ -630,8 +630,10 @@ p.paragraph-item_subtitle {
 .link a {
   color: blue;
 }
-.link li {
+
+.example__container {
   display: flex;
+  align-items: center;
 }
 
 .strong {
